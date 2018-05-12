@@ -22,7 +22,7 @@ scaf36_42	1	1	1	1
 
 # run:
 # ./extract_markers_within_1gene.py test test1
-
+# Comment: superscaffold36 contains both PAR and non-PAR region. Correct the ouput manually.
 PAR = ['superscaffold26', 'superscaffold54', 'superscaffold35', 'superscaffold36']
 non_PAR= ['superscaffold62', 'superscaffold67', 'superscaffold69-1',
 		'superscaffold83', 'superscaffold88', 'superscaffold93', 'superscaffold92',
